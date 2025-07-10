@@ -8,5 +8,9 @@ This package run the XFLY 40mm EDF fan to Teensy 4.1 using Micro-ROS on ROS-2 Hu
 - Operating Current:            15~20A
 - Produced Thrust:              360~500g
 - Product Weight:               40g
+- No. of Blades:                12
 - Recommended Battery Capacity: 800~2600mAh LiPo Battery
 - Recommended ESC Module:       20A Brushless ESC
+
+### Dimension
+![EDF Fan Dimension](images/EDF_Fan_Dimension.jpg)
